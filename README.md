@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Cüneyt</h1>
-<h3 align="center">Hindistan'dan tutkulu bir ön yüz geliştiricisi</h3>
+<h3 align="center">Türkiye'den tutkulu bir ön yüz geliştiricisi</h3>
 
 - 🔭 Şu anda [BelediyePersonelTakip](https) üzerinde çalışıyorum ://github.com/importantecnt/belediye_takip_otomasyonu/tree/main/BelediyePersonelTakip)
 
